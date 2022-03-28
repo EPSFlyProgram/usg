@@ -1,7 +1,7 @@
 # REPOSITORY: usg
-Utility Safety Group
+## Utility Safety Group
 
-## Powered by [Nine Dot Software, LLC] (https://ninedotsoftware.com)
+### Powered by [Nine Dot Software, LLC] (https://ninedotsoftware.com)
 
 ![Utility Safety Group Logo](images/logo72x72.png)
 
