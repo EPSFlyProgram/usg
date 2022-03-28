@@ -15,6 +15,6 @@ to step in and assist.
 **Timeline**
 - March 25, 2022 - Start Initial Discussions of plans for the site
 - March 26, 2022 - Start Moving the website to a different web-host provider
-- March 28, 2022 -
+- March 26, 2022 - Coding Started to move the site
 
 `The End`
